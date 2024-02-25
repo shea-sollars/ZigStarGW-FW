@@ -1,6 +1,3 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-single.svg)](https://stand-with-ukraine.pp.ua)
-
- 
 [![GitHub version](https://img.shields.io/github/release/xyzroe/ZigStarGW-FW.svg)](https://github.com/xyzroe/ZigStarGW-FW/releases)
 [![GitHub download](https://img.shields.io/github/downloads/xyzroe/ZigStarGW-FW/total.svg)](https://github.com/xyzroe/ZigStarGW-FW/latest)
 [![License](https://img.shields.io/github/license/xyzroe/ZigStarGW-FW.svg)](LICENSE.txt)
